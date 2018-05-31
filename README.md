@@ -1,14 +1,14 @@
-#GDI: Unix Command Line Basics
+# GDI: Unix Command Line Basics
 
 Slides are built using the Yeoman Reveal generator template. See the [repo](https://github.com/gdichicago/yeoman_reveal_template) for instructions on making modifications to the slides.
 
-Slides and materials are hosted [here](http://gdichicago.com/classes/intro-to-command-line).
+Slides and materials are hosted [here](http://gdibuffalo.github.io/classes/intro-to-command-line).
 
-##Course Description
+## Course Description
 
 Learn what to do (and what not to do) when it comes to the command line in this brief, but informative, evening workshop!
 
-This course requires a Linux or Mac computer. You cannot take this class with a Windows computer.
+This course requires a Linux or Mac computer. If you have a Windows computer you will need to install Git Tools for Windows so that Unix commands are available.
 
 Together, we'll gain new knowledge and skills while we squash the mysteries of the command line!
 
@@ -21,19 +21,14 @@ This is an introductory-level course that gives a broad, basic overview of commo
 You'll need a Unix compatible system at your disposal, which means a Mac or Linux laptop. You cannot use a Windows laptop for this course. We are not planning on offering a Windows version of this course in the immediate future. Not because we don't love you, or because Windows isn't important, but because we don't have adequate materials to teach an equivalent course to Windows users.
 
 
-**Cost:** $20
-
-**Date:** Wednesday, August 27 from 6:30-8:30 PM
-
-**Location:** Dev Bootcamp at 351 W Hubbard, 7th Floor
-
-
-###Technical requirements:
+### Technical requirements:
 
  - A Mac or Linux laptop 
+ - Windows laptops will require the installation of Git Tools for Windows, which installs Unix commands on your Windows laptop.
+  - Alternatively, a Unix environment can be provided for all students to `ssh` into.
  - Administrator-level access (if you're using a work computer, ask your IT department if you have Admin-level access)
 
 
-###Prerequisites:
+### Prerequisites:
 
- - None. This is a beginner-level course. 
+ - None. This is a beginner-level course.
